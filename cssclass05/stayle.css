@@ -1,0 +1,33 @@
+.minhaz{
+    background-color: black;
+    color: aliceblue;
+    width: opx
+    ;
+    display: flex;
+    box-sizing: border-box;
+
+}
+.minhaz button{
+    background-color: brown;
+    color: aliceblue;
+}
+.uddin{
+    text-align: justify;
+    background-color: black;
+    color: aliceblue;
+    margin: 20px auto
+    ;
+    display: list-item;
+    box-sizing: border-box;
+    padding: 20px;
+    
+}
+.uddin h1{ color: darkturquoise;}
+.uddin h5{
+    color: darkred;
+}
+.uddin button{background-color: brown;
+ color: beige;}
+
+
+
